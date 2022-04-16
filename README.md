@@ -39,7 +39,7 @@
 
 ## 📊 My Github Stats
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=busranur-erpay&show_icons=true&theme=radical)
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=busranur-erpay&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=busranur-erpay&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 <br />
 
 ## Views and Followers
