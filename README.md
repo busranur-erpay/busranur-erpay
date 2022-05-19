@@ -4,15 +4,17 @@
 <br/>
 ## 
 ## 🙋‍ About Me
-- 👨‍🎓 I am a Computer Engineer 
-- 👩‍💻 I’m currently a student of [Upschool]'s Android Development program  <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="200px" border-radius="55px" align="right">
+- 👨‍🎓 I am a Computer Engineer   
+- 👩‍💻 I’m currently a student of [Upschool]'s Android Development program 
 - 💻 I’m currently learning Android and Kotlin
-- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨 
+- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨  
 - 👀 I am interested in mobile programming and game development
 - 📫 How to reach me busranur.erpay@ogr.iu.edu.tr
 - ⚡ Fun fact: I love to playing games 🎮, reading books 📚, listening music 🎧 
+<img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="200px" border-radius="55px" align="right">
 <br />
 
+ 
 ## 📩 Connect with me:
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin] [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
