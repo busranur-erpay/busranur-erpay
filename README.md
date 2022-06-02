@@ -6,12 +6,10 @@
 ## 🙋‍ About Me
 - 👨‍🎓 I am a Computer Engineer   
 - 👩‍💻 I’m currently a student of [Upschool]'s Android Development program 
-- 💻 I’m currently learning Android and Kotlin
-- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨  
+- 💻 I’m currently learning Android and Kotlin  <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="200px" border-radius="55px" align="right">
 - 👀 I am interested in mobile programming and game development
 - 📫 How to reach me busranur.erpay@ogr.iu.edu.tr
 - ⚡ Fun fact: I love to playing games 🎮, reading books 📚, listening music 🎧 
-<img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="200px" border-radius="55px" align="right">
 <br />
 
  
